@@ -1,0 +1,22 @@
+{
+  "version_comparison": {
+    "v8_features": {
+      "cross_correlation": " Included",
+      "seasonality": " Included",
+      "anomaly_detection": " Included",
+      "var_analysis": " Enhanced with full IRF/FEVD"
+    },
+    "v14_1_features": {
+      "clustering": " Enhanced with all metrics",
+      "bayesian": " Included",
+      "predictions": " Included",
+      "mcp_integration": " Ready"
+    },
+    "v14_2_new": {
+      "all_metrics_clustering": " Davies-Bouldin, Calinski-Harabasz, Silhouette",
+      "comprehensive_var": " Full IRF and FEVD analysis",
+      "professional_reports": " Client-ready HTML and PDF",
+      "interactive_selection": " Model comparison framework"
+    }
+  }
+}

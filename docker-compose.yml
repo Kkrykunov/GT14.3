@@ -1,0 +1,12 @@
+version: "3.8"
+
+services:
+  backend:
+    build:
+      context: ./GT14_v14_3    # Зазначаємо підкаталог, де зберігається Dockerfile
+    image: gt14-backend:latest
+    container_name: gt14-backend
+    volumes:
+      - ./GT14_v14_3:/app      # Мапінг папок
+    ports:
+      - "8000:8000"

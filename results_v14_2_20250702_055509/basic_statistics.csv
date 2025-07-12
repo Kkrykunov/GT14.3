@@ -1,0 +1,2 @@
+total_records,date_range,total_whale_volume,avg_whale_volume_hourly,total_transactions,unique_currencies,exchange_inflow_total,exchange_outflow_total,net_flow_total
+3679,2021-02-24 00:00:00 to 2021-08-31 23:00:00,907712002200.0,246727915.79233488,11198,82,164563984978.0,158677143742.0,-5886841236.0
